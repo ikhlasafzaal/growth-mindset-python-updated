@@ -61,4 +61,9 @@ else:
 # Footer 
 st.markdown("---")
 st.write("🌟 Keep unlocking new possibilities and growing every day!")
-st.write("© 2025 Created By Fiza Asif")
+st.write("🚀 Challenge yourself to become the best version of yourself!")
+
+# Contact Section
+st.header("📞 Connect with Me")
+st.write("If you have any questions or feedback, feel free to reach out:")
+st.write("ikhlasafzaal.netlify.app")
