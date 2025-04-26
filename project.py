@@ -17,7 +17,7 @@ h2 {
     color: #4682B4;
 }
 p {
-    color: #333333;
+    color: #B8A4A4FF;
     font-size: 18px;
 }
 </style>
